@@ -12,3 +12,4 @@ python-dotenv
 pynini==2.1.5
 WeTextProcessing
 nemo_text_processing
+TTS
